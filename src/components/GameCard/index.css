@@ -1,0 +1,12 @@
+.list-image {
+  list-style-type: none;
+  width: 40%;
+}
+.list-button {
+  background-color: transparent;
+  border: none;
+}
+.image {
+  height: 150px;
+  width: 150px;
+}
